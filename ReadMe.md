@@ -1,5 +1,5 @@
 # 💫 About Me:
-PROFESSIONAL SUMMARY<br>Software Engineer with 1.5+ years of experience building web applications using Angular, TypeScript, Node.js, and MySQL.<br>Skilled in full-stack development, REST API integration, JWT authentication, reusable component architecture, and performance<br>optimization. Familiar with AWS cloud services, SEO monitoring using Google Search Console, and AI-assisted<br>development tools.<br>TECHNICAL SKILLS<br>Frontend: Angular, TypeScript, JavaScript, HTML5, CSS3, responsive UI development<br>Backend: Node.js, Express.js, PHP, REST API development, JWT authentication<br>Databases: MySQL, relational database design, CRUD operations<br>Cloud: AWS fundamentals: EC2, Elastic Load Balancing (ELB), Amazon S3<br>AI Tools: ChatGPT, Claude, GitHub Copilot, Cursor, Gemini, Google Stitch<br>SEO: Google Search Console<br>Tools & Concepts: Git, GitHub, Postman, RabbitMQ, Zoho, DBMS, modular
+PROFESSIONAL SUMMARY<br>Software Engineer with 1.5+ years of experience building web applications using Angular, TypeScript, Node.js, and MySQL.<br>Skilled in full-stack development, REST API integration, JWT authentication, reusable component architecture, and performance<br>optimization. Familiar with AWS cloud services, SEO monitoring using Google Search Console, and AI-assisted<br>development tools.
 
 
 ## 🌐 Socials:
